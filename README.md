@@ -1,3 +1,3 @@
 # Hackmoney subgraph
 
-Truffle, The graph, Rarible, Upshot
+Truffle, The graph, Opensea, Upshot
